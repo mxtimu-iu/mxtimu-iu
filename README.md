@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+
 # Hey there! my name is Matimu, I am currently a student at the International University of Applied Science.<br><br>Welcome to my GitHub profile! Here's a little about me:<br><br>- 🔭 I’m currently working on enhancing my Backend and Frontend skills through various projects and self-assessments.<br>- 🌱 I’m currently learning Backend Engineering on my own through Code Academy career path, mathematical concepts, and Systems design.<br>- 👯 I’m looking to collaborate on beginner-friendly Full Stack projects.<br>- 🤔 I’m looking for help with mastering advanced data structures and algorithms.<br>- 💬 Ask me about Java basics, Python and JavaScript programming, or concepts in discrete mathematics.<br>- 📫 How to reach me: matimu-junior.ngobeni@iu-study.org or my LinkedIn : Matimu Ngobeni<br>- ⚡ Fun fact: I enjoy algorithmic problem-solving and love exploring how logic can shape creative software solutions.<br><br>Feel free to check out my repositories and connect with me!
 
 
